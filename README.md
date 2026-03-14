@@ -15,6 +15,6 @@ Contains trained machine learning models.
 
 ## Team Members
 
-Backend Development  
-Frontend Development  
-Machine Learning Model
+Backend Development  :- Raushan Prasad 
+Frontend Development  :- Anubhav Rajput
+Machine Learning Model :- Arun verma 
