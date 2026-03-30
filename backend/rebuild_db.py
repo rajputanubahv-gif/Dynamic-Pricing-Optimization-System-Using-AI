@@ -1,5 +1,5 @@
 from database import engine
-from models import Base, User, Prediction
+from models import Base, User, Prediction, UserFeedback, TrainingRecord, SystemConfig
 
 print("Dropping all tables...")
 Base.metadata.drop_all(bind=engine)

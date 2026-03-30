@@ -1,0 +1,13 @@
+Nexus 2.0 successfully calculated price based on **Balanced** strategy. Priority: Standard equilibrium between satisfaction and overhead. Final fare factors in 0.0km distance and current market intensity.
+
+⚡ **Dynamic Multipliers Active:** 3.55x combined impact from real-time signals.
+
+Real-time Signals:
+🎉 Major local event detected (3 events). Rider estimate boosted: 300 → 420
+🗺️ Live Route: **Point A → Point C**. (0.0km, 0 mins via live traffic)
+🧠 **Market Intelligence:** Demand Factor 3.4x | Supply Index 1.0 | Pressure: **Stable**
+⛽ Fuel Index is High (Steady ➡️). Base rate adjusted by **3%**.
+🔥 Extreme Heat (Feels like 45°C). AC-tier demand optimization active (+15% surge).
+🚀 [ULTRA] Arrival Blast (Metro Wave): Mass transit arrival detected — **3.0x instant surge** active.
+⛽ **Dynamic Base Fare:** Fuel index is high (1.03x). Base price adjusted.
+🟢 **Short Trip Opt:** Distance is 0.0km. Applying 15% base discount and dampened surge for affordability.
